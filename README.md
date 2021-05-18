@@ -4,6 +4,6 @@ A exercise project from the Codecademys Full Stack Course
 
 ## Languages
 --------------
-html
-css
+- html
+- css
 --------------
