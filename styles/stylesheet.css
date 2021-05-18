@@ -1,6 +1,7 @@
 body {
     font-family: Helvetica;
 }
+
 header {
     background-image: url("../img/pattern.jpeg");
     font-size: 100px;
@@ -8,20 +9,25 @@ header {
     color: khaki;
     text-align: center;
 }
+
 h2 {
-font-size: 32px;
-font-weight: bold;
-color: white;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
 }
+
 #brushes {
     background-color: mediumspringgreen;
 }
+
 #frames {
     background-color: lightcoral;
 }
+
 #paint {
     background-color: skyblue;
 }
+
 .price {
     font-weight: bold;
     color: blue;
